@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "I I",
+        "I I"
+    ],
+    "key": {
+        "I": {
+            "item": "easytechnology:boeryllium_ingot"
+        }
+    },
+    "result": {
+        "item": "easytechnology:boeryllium_leggings",
+        "count": 1
+    }
+}

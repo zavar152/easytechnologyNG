@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IRI",
+        "PIS",
+        "IRI"
+    ],
+    "key": {
+        "I": {
+            "item": "easytechnology:boeryllium_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "P": {
+            "item": "minecraft:diamond_pickaxe"
+        },
+        "S": {
+            "item": "minecraft:diamond_shovel"
+        }
+    },
+    "result": {
+        "item": "easytechnology:boer_controller",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:double_plant",
+            "data": 0
+        },
+        {
+            "item": "minecraft:gold_ingot" 
+        }
+    ],
+    "result": {
+        "item": "easytechnology:seed_golden",
+        "count": 3
+    }
+}

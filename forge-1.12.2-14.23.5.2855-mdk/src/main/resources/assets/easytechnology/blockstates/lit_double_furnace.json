@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        "facing=north": { "model": "easytechnology:lit_double_furnace" },
+        "facing=east": { "model": "easytechnology:lit_double_furnace", "y": 90 },
+        "facing=south": { "model": "easytechnology:lit_double_furnace", "y": 180 },
+        "facing=west": { "model": "easytechnology:lit_double_furnace", "y": 270 }
+    }
+}

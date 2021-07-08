@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "PIP",
+        " P "
+    ],
+    "key": {
+        "I": {
+            "item": "easytechnology:seed_golden"
+        },
+        "P": {
+        	"item": "minecraft:paper"
+        }
+    },
+    "result": {
+        "item": "easytechnology:golden_pack",
+        "count": 1
+    }
+}

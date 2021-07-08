@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GIG",
+        "ICI",
+        "GIG"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:wool",
+            "data": 5
+        },
+        "I": {
+            "item": "easytechnology:boeryllium_ingot"
+        },
+        "C": {
+            "item": "easytechnology:boer_controller"
+        }
+    },
+    "result": {
+        "item": "easytechnology:boer_case",
+        "count": 1
+    }
+}

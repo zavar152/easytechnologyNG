@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:double_plant",
+            "data": 0
+        },
+        {
+            "item": "minecraft:dirt",
+            "data": 0
+        }
+    ],
+    "result": {
+        "item": "easytechnology:seed",
+        "count": 3
+    }
+}

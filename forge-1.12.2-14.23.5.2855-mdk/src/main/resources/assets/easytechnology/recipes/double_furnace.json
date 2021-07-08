@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IOI",
+        "OCO",
+        "IBI"
+    ],
+    "key": {
+        "B": {
+            "item": "easytechnology:boeryllium_block"
+        },
+        "C": {
+        	"item": "easytechnology:machine_controller"
+        },
+        "I": {
+        	"item": "minecraft:iron_ingot"
+        },
+        "O": {
+        	"item": "easytechnology:oreryllium_ingot"
+        }
+    },
+    "result": {
+        "item": "easytechnology:double_furnace",
+        "count": 1
+    }
+}

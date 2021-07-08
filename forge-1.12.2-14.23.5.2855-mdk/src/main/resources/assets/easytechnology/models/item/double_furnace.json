@@ -1,0 +1,12 @@
+{
+	"parent": "block/orientable",
+    "textures": {
+        "particle": "easytechnology:blocks/double_furnace_front_off",
+        "up": "easytechnology:blocks/double_furnace_side",
+        "down": "easytechnology:blocks/double_furnace_side",
+        "north": "easytechnology:blocks/double_furnace_front_off",
+        "east": "easytechnology:blocks/double_furnace_side",
+        "south": "easytechnology:blocks/double_furnace_side",
+        "west": "easytechnology:blocks/double_furnace_side"
+    }
+}

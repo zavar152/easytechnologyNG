@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IOI",
+        "OBO",
+        "IOI"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:redstone_block"
+        },
+        "O": {
+        	"item": "easytechnology:oreryllium_ingot"
+        },
+        "I": {
+        	"item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "easytechnology:machine_controller",
+        "count": 2
+    }
+}
